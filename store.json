@@ -1,0 +1,10 @@
+{
+    "name": "乔治的仓库",
+    "icon": "",
+    "list": "https://raw.githubusercontent.com/qiaozhi-4/js-hook-script-repo/main/script.json",
+    "push": "https://raw.githubusercontent.com/qiaozhi-4/js-hook-script-repo/main/msg/msg.json",
+    "markdown": "https://raw.githubusercontent.com/qiaozhi-4/js-hook-script-repo/main/README.md",
+    "group_qq": "https://qm.qq.com/cgi-bin/qm/qr?k=1CHuRGuLemcu2hncQZvi3vWcz5sPgZdD&jump_from=webapi&authKey=YtaXeTHwDZSdY5x+5prEnRQSEuJG0dqv90VQaytShasxUYIM+Jp1C6FflOZQbJIh",
+    "group_tg": "jshookgroup",
+    "user_count": 0
+}
