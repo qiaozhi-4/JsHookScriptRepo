@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "首次更新",
-        "args": "https://raw.githubusercontent.com/qiaozhi-4/js-hook-script-repo/main/msg/msg.md",
+        "args": "https://raw.githubusercontent.com/qiaozhi-4/JsHookScriptRepo/main/msg/msg.md",
         "action": "markdown"
     }
 ]
